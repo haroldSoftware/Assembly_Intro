@@ -1,0 +1,21 @@
+C++   | Assembly
+______|___________
+      |
+=     | Mov
++=    | Add
+-=    | Sub
+*=    | Mul (unsigned)
+*=    | iMul (signed)
+/=    | Div (unsigned)
+/=    | iDiv (signed)
+++    | Inc
+--    | Dec
+>>=   | Shr (shift right unsigned)
+>>=   | Sar (shift arithmetic right signed)
+<<=   | Shl (shift left)
+&=    | And
+|=    | Or
+^=    | Xor
+~=    | Not
+-     | Neg
+______|___________
